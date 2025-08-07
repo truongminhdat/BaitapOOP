@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\bin\Debug\net8.0\BaitapOOP.exe
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\bin\Debug\net8.0\BaitapOOP.deps.json
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\bin\Debug\net8.0\BaitapOOP.runtimeconfig.json
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\bin\Debug\net8.0\BaitapOOP.dll
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\bin\Debug\net8.0\BaitapOOP.pdb
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.dll
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\refint\BaitapOOP.dll
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.pdb
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\ref\BaitapOOP.dll
