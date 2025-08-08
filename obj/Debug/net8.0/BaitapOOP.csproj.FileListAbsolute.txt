@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\refint\BaitapOO
 C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.pdb
 C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.genruntimeconfig.cache
 C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\ref\BaitapOOP.dll
+C:\Users\Admin\source\repos\BaitapOOP\BaitapOOP\obj\Debug\net8.0\BaitapOOP.sourcelink.json
